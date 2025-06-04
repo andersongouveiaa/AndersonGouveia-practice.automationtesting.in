@@ -23,7 +23,7 @@ O planejamento completo dos testes manuais, incluindo cenários, massa de teste,
 
     * **Observação:** A planilha contém as colunas "Resultado Real" e "Status (PASS/FAIL)" para registro da execução manual dos testes.
 
-### 3. Considerações e Melhorias (Opcional - Para se destacar)
+### 3. Considerações e Melhorias 
 
 Durante a análise e execução dos testes manuais, foram identificados alguns pontos de atenção e sugestões de melhoria, que estão documentados na aba "Defeitos e Sugestões" da planilha de Plano de Testes.
 
